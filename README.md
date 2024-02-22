@@ -4,8 +4,7 @@ Dashboard criado com Power BI na mentoria Data Mundo.
 <img src="/Print-DashBoard-AutoSolutions.png">
 
 ## Manual de instalação pelo git
-Obs: Antes de tudo é importante você possuir o anaconda instalado no seu sistema para poder abrir o projeto no jupyter notebook, ou se preferir você pode abrir o projeto pelo vscode.</br>
-</br>
+
 1 - Crie uma pasta;</br>
 2 - Clique com o botão direito do mause e selecione a opção "Git Bash Here";</br>
 3 - Copie a Url do projeto;</br>
