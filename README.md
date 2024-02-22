@@ -1,7 +1,7 @@
 # Dashboard AutoSolutions
 Dashboard criado com Power BI na mentoria Data Mundo.
 
-
+<img src="/Print-DashBoard-AutoSolutions.png">
 
 ## Manual de instalação pelo git
 Obs: Antes de tudo é importante você possuir o anaconda instalado no seu sistema para poder abrir o projeto no jupyter notebook, ou se preferir você pode abrir o projeto pelo vscode.</br>
